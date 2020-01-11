@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Update</string>
+    <string name="app_update">Update Now</string>
+    <string name="app_thanks">No, Thanks Close App</string>
+    <string name="app_new_update">New Update is Available</string>
+    <string name="app_new_current">The current version of the application is no longer supported. We apologise for any inconvenience we may have caused you.</string>
+</resources>
