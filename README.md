@@ -4,7 +4,8 @@ Android Library for an app update.
 
 ### Overview
 This is a simple overview of the app
-![CircleImageView](https://github.com/Keeprawteach/Profile-Image/blob/master/app/screenshots/device-2020-01-04-114349.png) ![CircleImageView](https://github.com/Keeprawteach/Profile-Image/blob/master/app/screenshots/device-2020-01-04-114349.png)
+![CircleImageView]() ![CircleImageView](https://github.com/Keeprawteach/Profile-Image/blob/master/app/screenshots/device-2020-01-04-114349.png)
+<img src="https://github.com/Keeprawteach/Profile-Image/blob/master/app/screenshots/device-2020-01-04-114349.png" width="48">
  
 ### Installing
 
