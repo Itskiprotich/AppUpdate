@@ -36,7 +36,14 @@ public class CheckUpdate extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(complete_url)));
+
+                try {
+                    startActivity(new Intent(Intent.ACTION_VIEW,
+                            Uri.parse(Config.MARKET_URL + "" + app_link)));
+                } catch (android.content.ActivityNotFoundException e) {
+                    startActivity(new Intent(Intent.ACTION_VIEW,
+                            Uri.parse(complete_url)));
+                }
                 CheckUpdate.this.finish();
             }
         });
