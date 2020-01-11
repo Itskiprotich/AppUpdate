@@ -18,7 +18,6 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:fontFamily="@font/robotoblack"
             android:gravity="center"
             android:text="@string/app_new_update"
             android:textSize="22sp" />
@@ -27,7 +26,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="15dp"
-            android:fontFamily="@font/robotomedium"
             android:gravity="center"
             android:text="@string/app_new_current" />
     </LinearLayout>
@@ -43,7 +41,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@drawable/freebut"
-            android:fontFamily="@font/robotomedium"
             android:text="@string/app_update"
             android:textColor="@color/text" />
 
@@ -52,7 +49,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
-            android:fontFamily="@font/robotomedium"
             android:gravity="center"
             android:text="@string/app_thanks" />
     </LinearLayout>
